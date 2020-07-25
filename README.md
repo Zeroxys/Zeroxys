@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-<div align=”center”>![MiguelZavala](https://i.makeagif.com/media/3-02-2017/dkINxI.gif "MiguelZavala")</div>
-
+![MiguelZavala](https://i.makeagif.com/media/3-02-2017/dkINxI.gif "MiguelZavala")
 
 ```javascript
 const miguel = {
