@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+```javascript
+const miguel = {
+  code: [Javascript, HTML, CSS, Java],
+  tools: [React, React-Native, Redux, Node, Styled-Components, Bash, Git ],
+  architecture: ["microservices"],
+}
+```
+
 <!--
 **Zeroxys/Zeroxys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
