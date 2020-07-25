@@ -1,10 +1,14 @@
 ### Hi there 👋
 
 
+![MiguelZavala](https://i.makeagif.com/media/3-02-2017/dkINxI.gif "MiguelZavala")
+
 ```javascript
 const miguel = {
   code: [Javascript, HTML, CSS, Java],
-  tools: [React, React-Native, Redux, Node, Styled-Components, Bash, Git ],
+  tools: [React, React-Native, Redux, Node, Styled-Components, Bash, Nginx ],
+  database : [Redis, Mongodb, Rethinkdb],
+  others : [Git, Gitlab, VS Code, VIM, Android-Studio, Linux]
   architecture: ["microservices"],
 }
 ```
